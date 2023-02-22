@@ -12,7 +12,7 @@ Ambas máquinas deben encontrarse dentro de la misma red privada y tener conecti
 
 git clone https://github.com/Arturo254/Reverse_shell-
 
-cd Reverse_shell-
+cd Reverse_shell
 
 
 ```
